@@ -1,0 +1,376 @@
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\beacon.min.js\v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+Content Type: text/javascript
+
+Uri: https://wivana-html.zaderonstudio.com/404-page.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\404-page.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/about.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\about.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/blog-post.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\blog-post.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/contact.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\contact.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/css/border.css
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\css\border.css
+Content Type: text/css
+
+Uri: https://wivana-html.zaderonstudio.com/css/style.css
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\css\style.css
+Content Type: text/css
+
+Uri: https://wivana-html.zaderonstudio.com/css/swiper.css
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\css\swiper.css
+Content Type: text/css
+
+Uri: https://wivana-html.zaderonstudio.com/faqs.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\faqs.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/font/lato.ttf
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\font\lato.ttf
+Content Type: application/octet-stream
+
+Uri: https://wivana-html.zaderonstudio.com/font/philosopher.ttf
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\font\philosopher.ttf
+Content Type: application/octet-stream
+
+Uri: https://wivana-html.zaderonstudio.com/icon/favicon.ico
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\icon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://wivana-html.zaderonstudio.com/icon/testi.svg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\icon\testi.svg
+Content Type: image/svg+xml
+
+Uri: https://wivana-html.zaderonstudio.com/icon/testimonial-icon.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\icon\testimonial-icon.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/about-overlay.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\about-overlay.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/bg-1.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/blog-post-1.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\blog-post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/blog-post-2.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\blog-post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/blog-post-3.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\blog-post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/blog-post-4.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\blog-post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/blog-post-5.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\blog-post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/blog-post-6.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\blog-post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/contact-image.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\contact-image.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/faqs-2.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\faqs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/faqs-3.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\faqs-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/faqs.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\faqs.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/icons-UGGEC4D_4.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\icons-UGGEC4D_4.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/icons-UGGEC4D_5.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\icons-UGGEC4D_5.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/icons-UGGEC4D_6.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\icons-UGGEC4D_6.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/icons-UGGEC4D_7.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\icons-UGGEC4D_7.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/icons-UGGEC4D_8.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\icons-UGGEC4D_8.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/icons-UGGEC4D_9.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\icons-UGGEC4D_9.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/images-Ayurveda-Treatment.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\images-Ayurveda-Treatment.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/images-PZE6K9S.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\images-PZE6K9S.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/images-QZDUYQ5.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\images-QZDUYQ5.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/images-RYLL974-e1728881706481.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\images-RYLL974-e1728881706481.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/images-ZV8482W.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\images-ZV8482W.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-1.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-1.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-2.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-2.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-3.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-3.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-4.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-4.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-5.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-5.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-6.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-6.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-7.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-7.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-8.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-8.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/logo-9.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\logo-9.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/service-1.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/service-2.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/service-3.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/service-4.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/showcase-1.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\showcase-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/showcase-2.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\showcase-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/showcase-3.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\showcase-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/showcase-4.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\showcase-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/showcase-5.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\showcase-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/Signature-dummy_2.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\Signature-dummy_2.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-1.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-2.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-3.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-4.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-5.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-6.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-7.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-7.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/team-8.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/testimonial-1.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/testimonial-2.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/testimonial-3.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\testimonial-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/testimonial-4.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\testimonial-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/testimonial-5.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\testimonial-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/testimonial-6.jpg
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\testimonial-6.jpg
+Content Type: image/jpeg
+
+Uri: https://wivana-html.zaderonstudio.com/img/wivana-logo-dark.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\wivana-logo-dark.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/img/wivana-testi.png
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\img\wivana-testi.png
+Content Type: image/png
+
+Uri: https://wivana-html.zaderonstudio.com/index.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\index.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/js/index.js
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\js\index.js
+Content Type: application/javascript
+
+Uri: https://wivana-html.zaderonstudio.com/lib/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://wivana-html.zaderonstudio.com/lib/css/fontawesome.css
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://wivana-html.zaderonstudio.com/lib/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://wivana-html.zaderonstudio.com/lib/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://wivana-html.zaderonstudio.com/lib/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://wivana-html.zaderonstudio.com/lib/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\lib\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://wivana-html.zaderonstudio.com/our-process.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\our-process.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/packages.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\packages.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/services-detail.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\services-detail.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/services.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\services.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/single-post.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\single-post.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/team.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\team.html
+Content Type: text/html
+
+Uri: https://wivana-html.zaderonstudio.com/testimonials.html
+File Name: C:\Downloaded Web Sites\wivana-html.zaderonstudio.com\testimonials.html
+Content Type: text/html
+
